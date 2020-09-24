@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning flutter
-- 👋 I use Vuejs for work
+- 📚 I’m currently learning flutter
+- 💼 I use Vuejs for work
 
 <!--
 **chavesgu/chavesgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
