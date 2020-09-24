@@ -1,4 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chavesgu&show_icons=true&icon_color=2dcaff&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
 ### Hi there 👋
+
+- 🌱 I’m currently learning flutter
+- 👋 I use Vuejs for work
 
 <!--
 **chavesgu/chavesgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
