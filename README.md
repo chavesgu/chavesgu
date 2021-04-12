@@ -1,7 +1,10 @@
-### Hi there 👋 👋 [website](https://www.chavesgu.com)
+### Hi there 👋 👋 
 
-- 📚 I’m currently learning flutter
-- 💼 I use Vuejs for work
+[website](https://www.chavesgu.com)
+
+📚 I’m currently learning flutter
+
+💼 I use Vuejs for work
 
 <img src="https://github-readme-stats.vercel.app/api?username=chavesgu&show_icons=true&icon_color=bc0b0b&text_color=718096&bg_color=ffffff&hide_title=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavesgu&layout=compact&hide_title=true" />
